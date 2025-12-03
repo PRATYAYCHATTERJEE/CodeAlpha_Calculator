@@ -1,4 +1,4 @@
-# Code_Alpha_Calculator
+# CodeAlpha_Calculator
 
 🧮 Simple Calculator
 
